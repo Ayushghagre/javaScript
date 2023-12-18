@@ -4,7 +4,7 @@
 function func() { 
 	let arr = ["shift", "splice", "filter", "pop"]; 
 
-	// Popping the last element from the array 
+	// Popping the last element from the array dsflkjjkglkgsld
 	let popped = arr.pop(); 
 	console.log("Removed element: " + popped); 
 	console.log("Remaining elements: " + arr); 
