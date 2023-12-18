@@ -9,5 +9,3 @@ function func() {
 	console.log("Removed element: " + popped); 
 	console.log("Remaining elements: " + arr); 
 } 
-func();
-cd
